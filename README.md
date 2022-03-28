@@ -34,3 +34,6 @@ I am Junrey Lañas an aspiring developer/software engineer and a BSIT student fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
 </div>
+
+## My stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeDrakkar&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
