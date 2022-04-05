@@ -39,5 +39,5 @@ I am Junrey Lañas an aspiring developer/software engineer and a BSIT student fr
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&layout=compact&langs_count=6&theme=blue-green)
 
 ## My stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drakkarrr&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Drakkarrr&show_icons=true&theme=blue-green)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drakkarrr&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
