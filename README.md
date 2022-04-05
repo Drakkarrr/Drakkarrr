@@ -1,4 +1,4 @@
-# Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40"/>😊
+<!-- # Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40"/>😊 -->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="700"/>
@@ -35,5 +35,9 @@ I am Junrey Lañas an aspiring developer/software engineer and a BSIT student fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
 </div>
 
+## Most Used
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&langs_count=6&theme=blue-green)
+
 ## My stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drakkarrr&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Drakkarrr&show_icons=true&theme=blue-green)
