@@ -1,10 +1,10 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="700" height="auto"/>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="450"/>
-</div>
+</div> -->
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=1800&color=00DB4D&multiline=true&width=810&height=100&lines=Welcome+Visitor!;I'm+Junrey+La%C3%B1as%2C+An+aspiring+dev💻+;++++++)
  
