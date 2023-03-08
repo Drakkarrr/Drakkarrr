@@ -10,7 +10,7 @@
  
  
 ## About Me :
-I am Junrey Lañas an aspiring developer/software engineer and a BSIT student from LaSalle University, I’ve always been passionate in coding & programming specially in web development and been practicing my skill in for the past 2 years now using modern and powerful technologies.
+I am Junrey Lañas an aspiring developer/software engineer and a BSIT student from LaSalle University, I’ve always been passionate in coding & programming specially in web development and been practicing my skill in for 3 years now using modern and powerful technologies.
 
 
 ## Some of tech stacks i've work but not limited to are:
