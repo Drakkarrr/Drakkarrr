@@ -6,11 +6,22 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="450"/>
 </div>
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=1800&color=00DB4D&multiline=true&width=810&height=100&lines=Welcome+Visitor!;I'm+Junrey+La%C3%B1as%2C+An+aspiring+dev💻+;++++++)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=57&duration=1800&color=00DB4D&multiline=true&width=1200&height=150&lines=Welcome+Visitor!;I'm+Junrey+La%C3%B1as%2C+An+aspiring+dev💻+;++++++)
  
  
 ## About Me :
-I am Junrey Lañas an aspiring developer/software engineer and a BSIT student from LaSalle University, I’ve always been passionate in coding & programming specially in web development and been practicing my skill in for 3 years now using modern and powerful technologies.
+I am Junrey Lañas, 23 years old and a fullstack developer from Philippines, I am enthusiastic techy guy who does a bunch of if & else statements in real life.
+My main arsenal tech stacks are:
+<br/>
+• TypeScript <br/>
+• React.js <br/>
+• Next.js <br/>
+• Node.js <br/>
+• Express.js <br/>
+• Nest.js <br/>
+• TailwindCSS <br/>
+• MongoDB <br/>
+• PosgresDB
 
 
 ## Some of tech stacks i've work but not limited to are:
