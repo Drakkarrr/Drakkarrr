@@ -11,7 +11,7 @@
  
 ## About Me :
 I am Junrey Lañas, 23 years old and a fullstack developer from Philippines, I am enthusiastic techy guy who does a bunch of if & else statements in real life.
-My main arsenal tech stacks are:
+I'm currently learning these following 
 <br/>
 • TypeScript <br/>
 • React.js <br/>
