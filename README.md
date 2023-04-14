@@ -10,7 +10,7 @@
  
  
 ## About Me :
-I am Junrey Lañas, 23 years old and a fullstack developer from Philippines, I am enthusiastic techy guy who does a bunch of if & else statements in real life.
+I am Junrey Lañas, 23 years old and a aspiring developer from Philippines, I am enthusiastic techy guy who does a bunch of if & else statements in real life.
 I'm currently learning these following 
 <br/>
 • TypeScript <br/>
