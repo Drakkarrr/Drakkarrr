@@ -24,7 +24,7 @@ My main arsenal tech stacks are:
 • PosgresDB
 
 
-## Some of tech stacks i've work but not limited to are:
+## Some of technologies i've work but not limited to are:
 <div id="icons">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -47,8 +47,6 @@ My main arsenal tech stacks are:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp;          
 </div>
 
-## Programming Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&layout=compact&langs_count=8&theme=blue-green)
 
 | Github Stats |Streak & Contribs
 | --- | --- |
