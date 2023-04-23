@@ -10,8 +10,8 @@
  
  
 ## About Me :
-I am Junrey Lañas, 23 years old an aspiring developer from Philippines, I am enthusiastic techy guy who does a bunch of if & else statements in real life.
-I'm currently learning these following 
+I am Junrey Lañas, 23 years old an aspiring developer from Philippines, I am an enthusiastic techy guy who possess a strong interest in software development trends and technologies.
+My tech stacks are: 
 <br/>
 • TypeScript <br/>
 • React.js <br/>
