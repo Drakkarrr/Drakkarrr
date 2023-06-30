@@ -47,6 +47,7 @@ My tech stacks are:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp;          
 </div>
 
+[![Badge](https://69yorqq5gc4f.runkit.sh)](https://git.io/gradientbadge)
 
 
 ![Drakkarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakkarrr&show_icons=true&theme=midnight-purple)
