@@ -45,4 +45,4 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and collab
 
 - GitHub: [Drakkarrr](https://github.com/Drakkarrr)
 - Email: junrey.lanas@gmail.com
-- LinkedIn: [Junrey Lañas](https://www.linkedin.com/in/yourusername/)
+- LinkedIn: [Junrey Lañas](https://www.linkedin.com/in/junreylañas/)
