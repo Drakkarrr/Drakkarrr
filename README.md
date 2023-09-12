@@ -31,12 +31,9 @@ My journey through the digital realm has led me to become proficient in a range 
 
 
 ## GitHub Activity:
-See how I've been contributing to the open-source world and honing my skills:
 
 ![Drakkarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakkarrr&show_icons=true&theme=midnight-purple)
 
-## GitHub Streak:
-Consistency is key! Check out my GitHub streak:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drakkarrr&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
