@@ -14,7 +14,7 @@ Hello there! I'm Junrey Lañas, a 23-year-old aspiring developer hailing from th
 My fascination with software development isn't just about writing code—it's about crafting innovative tools that can transform the way we live, work, and connect. I find joy in the process of building, testing, and refining, all while embracing the ever-evolving landscape of technology.
 
 ## My Tech Stacks:
-My journey through the digital realm has led me to become proficient in a range of technologies:
+My journey through the digital realm has led to exposure and experience to range of technologies:
 
 - TypeScript
 - React.js
@@ -27,6 +27,7 @@ My journey through the digital realm has led me to become proficient in a range 
 - Shadcn
 - RadixUI
 - Zustand
+- Redux Toolkit
 
 
 
