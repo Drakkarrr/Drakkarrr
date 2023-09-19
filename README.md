@@ -22,6 +22,8 @@ My journey through the digital realm has led to exposure and experience to range
 - Node.js
 - Express.js
 - Tailwind CSS
+- Prisma
+- MySQL
 - MongoDB
 - PostgreSQL
 - Shadcn
