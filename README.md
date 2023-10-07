@@ -42,7 +42,3 @@ My journey through the digital realm has led to exposure and experience to range
 
 ## Let's Connect:
 I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators. Feel free to reach out:
-
-- GitHub: [Drakkarrr](https://github.com/Drakkarrr)
-- Email: junrey.lanas@gmail.com
-- LinkedIn: [Junrey Lañas](https://www.linkedin.com/in/junreylañas/)
