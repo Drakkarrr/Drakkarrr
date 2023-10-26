@@ -41,4 +41,4 @@ My journey through the digital realm has led to exposure and experience to range
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drakkarrr&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Let's Connect:
-I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators. Feel free to reach out:
+I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators.
