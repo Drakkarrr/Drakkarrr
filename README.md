@@ -32,6 +32,9 @@ My journey through the digital realm has led to exposure and experience to range
 - Redux Toolkit
 
 
+[![](https://visitcount.itsvg.in/api?id=Drakkarrr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+
 ## Trophies 🏆
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Drakkarrr&column=3&theme=radical)
