@@ -34,7 +34,7 @@ My journey through the digital realm has led to exposure and experience to range
 
 ## Trophy 🏆
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Drakkarrr&column=3&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Drakkarrr&column=3&theme=radical)
 
 ## GitHub Activity:
 
