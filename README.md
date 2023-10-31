@@ -32,6 +32,10 @@ My journey through the digital realm has led to exposure and experience to range
 - Redux Toolkit
 
 
+## Trophy 🏆
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Drakkarrr&theme=onedark)
+
 
 ## GitHub Activity:
 
