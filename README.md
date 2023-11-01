@@ -37,10 +37,16 @@ My journey through the digital realm has led to exposure and experience to range
 - Zustand
 - Redux Toolkit
 
+<br/>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Drakkarrrr/github-readme-quotes)
+
+ <br/>
+<div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=Drakkarrr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote="This-Is-A-Test")](https://github.com/Drakkarrrr/github-readme-quotes)
+</div>
 
 
 ## Trophies 🏆
