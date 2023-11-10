@@ -21,7 +21,7 @@ My fascination with software development isn't just about writing code—it's ab
 
 <div align="center">
   
-  <img align="right" height="260" src="https://media.tenor.com/3EF8H9xyJfgAAAAC/killua-gon.gif"  />
+  <img src="https://media.tenor.com/3EF8H9xyJfgAAAAC/killua-gon.gif"  />
   
 </div>
 
