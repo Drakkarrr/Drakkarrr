@@ -3,7 +3,6 @@
   
 </div>
 
-
 <div align="center">
   <img src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" width="700" height="auto"/>
   
@@ -14,10 +13,10 @@
 [![](https://visitcount.itsvg.in/api?id=Drakkarrr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## About Me:
+
 Hello there! I'm Junrey Lañas, a 23-year-old aspiring developer hailing from the vibrant Philippines. With an insatiable curiosity for technology and a passion for turning lines of code into impactful solutions, I've embarked on an exciting journey into the world of software development.
 
 My fascination with software development isn't just about writing code—it's about crafting innovative tools that can transform the way we live, work, and connect. I find joy in the process of building, testing, and refining, all while embracing the ever-evolving landscape of technology.
-
 
 <div align="center">
   
@@ -26,6 +25,7 @@ My fascination with software development isn't just about writing code—it's ab
 </div>
 
 ## My Tech Stacks:
+
 My journey through the digital realm has led to exposure and experience to range of technologies:
 
 - TypeScript
@@ -47,8 +47,6 @@ My journey through the digital realm has led to exposure and experience to range
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Drakkarrrr/github-readme-quotes)
 
-
-
 ## Trophies 🏆
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Drakkarrr&column=3&theme=radical)
@@ -59,17 +57,18 @@ My journey through the digital realm has led to exposure and experience to range
   
 </div>
 
-
 ## GitHub Activity
 
 ![Drakkarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakkarrr&show_icons=true&theme=midnight-purple)
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drakkarrr&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
 
+![Typing SVG](./github-user-contribution.svg)
+
 ## Let's Connect:
+
 I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators.
 
 <div align="center">
