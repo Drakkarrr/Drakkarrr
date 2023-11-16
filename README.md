@@ -47,9 +47,14 @@ My journey through the digital realm has led to exposure and experience to range
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Drakkarrrr/github-readme-quotes)
 
-## Trophies 🏆
 
+<div align="center">
+  
+## Trophies 🏆
 ![trophy](https://github-profile-trophy.vercel.app/?username=Drakkarrr&column=3&theme=radical)
+  
+</div>
+
 
 <div align="center">
   
