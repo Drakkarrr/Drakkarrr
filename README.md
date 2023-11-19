@@ -45,7 +45,7 @@ My journey through the digital realm has led to exposure and experience to range
 
 <br/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Drakkarrrr/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/Drakkarrrr/github-readme-quotes)
 
 
 <div align="center">
@@ -64,9 +64,9 @@ My journey through the digital realm has led to exposure and experience to range
 
 ## GitHub Activity
 
-![Drakkarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakkarrr&show_icons=true&theme=midnight-purple)
+![Drakkarrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakkarrr&show_icons=true&theme=chartreuse-dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drakkarrr&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Drakkarrr&theme=chartreuse-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
 
