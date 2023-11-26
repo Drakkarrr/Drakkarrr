@@ -68,7 +68,9 @@ My journey through the digital realm has led to exposure and experience to range
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Drakkarrr&theme=chartreuse-dark&date_format=n%2Fj%5B%2FY%5D&count_private=true&include_all_commits=true)](https://git.io/streak-stats)
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000&count_private=true&include_all_commits=true"/>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=15&bg_color=000&count_private=true&include_all_commits=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Typing SVG](./github-user-contribution.svg)
 
