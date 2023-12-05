@@ -42,6 +42,8 @@ My journey through the digital realm has led to exposure and experience to range
 - RadixUI
 - Zustand
 - Redux Toolkit
+- GitHub actions
+- Docker
 
 <br/>
 
