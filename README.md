@@ -14,8 +14,7 @@
 
 ## About Me:
 
-Hello there! I'm Junrey Lañas, a 23-year-old aspiring developer hailing from the vibrant Philippines. With an insatiable curiosity for technology and a passion for turning lines of code into impactful solutions, I've embarked on an exciting journey into the world of software development.
-
+Hello there! I'm Junrey Lañas, a 24 year old aspiring developer from Philippines. With an insatiable curiosity for technology and a passion for turning lines of code into impactful solutions, I've embarked on an exciting journey into the world of software development.
 My fascination with software development isn't just about writing code—it's about crafting innovative tools that can transform the way we live, work, and connect. I find joy in the process of building, testing, and refining, all while embracing the ever-evolving landscape of technology.
 
 <div align="center">
@@ -24,30 +23,13 @@ My fascination with software development isn't just about writing code—it's ab
   
 </div>
 
-## My Tech Stacks:
+<div align="center">
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/Drakkarrrr/github-readme-quotes)
+  
+</div>
 
-My journey through the digital realm has led to exposure and experience to range of technologies:
 
-- TypeScript
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- Tailwind CSS
-- Prisma
-- MySQL
-- MongoDB
-- PostgreSQL
-- Shadcn
-- RadixUI
-- Zustand
-- Redux Toolkit
-- GitHub actions
-- Docker
-
-<br/>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/Drakkarrrr/github-readme-quotes)
 
 
 <div align="center">
