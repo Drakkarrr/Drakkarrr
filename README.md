@@ -23,13 +23,6 @@ My fascination with software development isn't just about writing code—it's ab
   
 </div>
 
-<div align="center">
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/Drakkarrrr/github-readme-quotes)
-  
-</div>
-
-
 
 
 <div align="center">
