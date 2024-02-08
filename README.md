@@ -6,7 +6,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=57&duration=1800&color=00DB4D&multiline=true&width=1200&height=150&lines=Welcome+Visitor!;I'm+Junrey+La%C3%B1as%2C+An+aspiring+dev💻+;++++++)
 
 [![](https://visitcount.itsvg.in/api?id=Drakkarrr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
 
+### Made with ❤️ 
+
+</div>
 ## About Me:
 
 Hello there! I'm Junrey Lañas, a 24 year old aspiring developer from Philippines. With an insatiable curiosity for technology and a passion for turning lines of code into impactful solutions, I've embarked on an exciting journey into the world of software development.
@@ -43,13 +47,3 @@ Hello there! I'm Junrey Lañas, a 24 year old aspiring developer from Philippine
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkarrr&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=20&bg_color=000&count_private=true&include_all_commits=true"/>
 
 ![Typing SVG](./github-user-contribution.svg)
-
-## Let's Connect:
-
-I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators.
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
