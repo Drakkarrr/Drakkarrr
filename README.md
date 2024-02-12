@@ -4,24 +4,7 @@
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=57&duration=1800&color=00DB4D&multiline=true&width=1200&height=150&lines=Welcome+Visitor!;I'm+Junrey+La%C3%B1as%2C+An+aspiring+dev💻+;++++++)
-
-[![](https://visitcount.itsvg.in/api?id=Drakkarrr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<div align="center">
-
-### Made with ❤️ 
-
-</div>
-## About Me:
-
-Hello there! I'm Junrey Lañas, a 24 year old aspiring developer from Philippines. With an insatiable curiosity for technology and a passion for turning lines of code into impactful solutions, I've embarked on an exciting journey into the world of software development.
-
-
-<div align="center">
-  
-  <img src="https://media.tenor.com/3EF8H9xyJfgAAAAC/killua-gon.gif"  />
-  
-</div>
-
+![](https://komarev.com/ghpvc/?username=Drakkarrr&color=dc143c)
 
 
 <div align="center">
